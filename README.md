@@ -29,7 +29,7 @@ Work in progress!
    - Date and time representations differ worldwide, for example dates in German and English. ISO 8601 creates a unique standard which is easily distringuishable from most commonly found formats
  -->
 
-![](https://github.com/JavkhlanK/JavkhlanK-backend/blob/master/generated/overview.svg)
+![](https://github.com/JavkhlanK/JavkhlanK-backend/blob/main/generated/overview.svg)
 
 <!--
 **JavkhlanK/JavkhlanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

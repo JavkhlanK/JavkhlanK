@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: Unlicense -->
 ## Hi there 👋
 
 Soo, you've wanted to take a look at my profile. Welcome!

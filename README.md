@@ -4,7 +4,7 @@ Soo, you've wanted to take a look at my profile. Welcome!
 
 ## Who I am <img alt="A flushed emote as 3D-cube that's rotating" width="32" src="https://raw.githubusercontent.com/JavkhlanK/JavkhlanK-backend/main/files/aflushcube.gif">
 
-My name is Javkhlan (*amazing, right?*) and I'm a hobby programmer, or just someone who likes to mess around with tech.
+My name is Javkhlan (*amazing, right?*) and I'm a hobby programmer and like to mess around with tech.
 
 My main tongue is German, but on the internet I often use English.
 
@@ -12,10 +12,9 @@ My main tongue is German, but on the internet I often use English.
 
 I like [Android](https://android.com) a lot, that's why I work on projects running on/with it often.
 
-I've always wanted to create my own app, with a unique idea, or at least a unique design.
-
-Problem is though, that I don't have lots of ideas. <img alt="A pensive emote doing a funny animation" width="16"  src="https://raw.githubusercontent.com/JavkhlanK/JavkhlanK-backend/main/files/apensivefast.gif">
-That's why I'm mostly just trying around some cool libraries, or reading [docs](https://developer.android.com) lol.
+I've always wanted to create my own app with a unique idea, or at least a unique design. That's yet to come.
+I don't have lots of ideas, and that's kinda the reason why such an app doesn't exist yet. <img alt="A pensive emote doing a funny animation" width="16"  src="https://raw.githubusercontent.com/JavkhlanK/JavkhlanK-backend/main/files/apensivefast.gif">
+I'm mostly just trying around some cool libraries, or reading [docs](https://developer.android.com).
 
 I'm currently working on [Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro).
 

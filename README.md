@@ -29,7 +29,15 @@ Work in progress!
    - Date and time representations differ worldwide, for example dates in German and English. ISO 8601 creates a unique standard which is easily distringuishable from most commonly found formats
  -->
 
-![](https://github.com/JavkhlanK/JavkhlanK-backend/blob/main/generated/overview.svg)
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/JavkhlanK/JavkhlanK-backend#gh-dark-mode-only">
+    <img src="https://github.com/JavkhlanK/JavkhlanK-backend/blob/main/generated/overview.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/JavkhlanK/JavkhlanK-backend#gh-light-mode-only">
+    <img src="https://github.com/JavkhlanK/JavkhlanK-backend/blob/main/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
 
 <!--
 **JavkhlanK/JavkhlanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

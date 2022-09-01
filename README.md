@@ -5,7 +5,7 @@ Soo, you've wanted to take a look at my profile. Welcome!
 
 ## Who I am <img alt="A flushed emote as 3D-cube that's rotating" width="32" src="https://raw.githubusercontent.com/JavkhlanK/JavkhlanK-backend/main/emotes/aflushcube.gif">
 
-My name is Javkhlan (*amazing, right?*) and I'm a hobby programmer and like to mess around with tech.
+My name is Javkhlan (*Who would've thought so ?!*) and I'm a hobby programmer and like to mess around with tech.
 
 My main tongue is German, but on the internet I often use English.
 
